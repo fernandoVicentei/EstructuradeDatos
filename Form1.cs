@@ -638,7 +638,7 @@ namespace RECURSIVO
                 nuevo.Derecha = auxi;
                 noddoble.Izquierda = nuevo;
             }
-            MessageBox.Show("NODO AGREGADO");
+            MessageBox.Show("NODO AGREGADO DESDE EL CODIGO DE GIT");
         }
         public void Mostrar(ref DataGridView d,ref int indice, ref TextBox bb)
         {
