@@ -1,0 +1,9 @@
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\bin\Debug\RECURSIVO.exe.config
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\bin\Debug\RECURSIVO.exe
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\bin\Debug\RECURSIVO.pdb
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.csprojAssemblyReference.cache
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.Form1.resources
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.Properties.Resources.resources
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.csproj.GenerateResource.cache
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.exe
+C:\Users\liamc\Downloads\Estructuradatos\RECURSIVO\obj\Debug\RECURSIVO.pdb
