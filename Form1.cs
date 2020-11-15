@@ -605,6 +605,7 @@ namespace RECURSIVO
         {
             noddoble = null;
         }
+
         public void Agregarnodo(MatrixValor mat,VectorValor vect)
         {
             NodoDobleExamen nuevo = new NodoDobleExamen();

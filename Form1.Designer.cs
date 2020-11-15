@@ -327,14 +327,14 @@
             // nODOToolStripMenuItem
             // 
             this.nODOToolStripMenuItem.Name = "nODOToolStripMenuItem";
-            this.nODOToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.nODOToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.nODOToolStripMenuItem.Text = "NODO";
             this.nODOToolStripMenuItem.Click += new System.EventHandler(this.nODOToolStripMenuItem_Click);
             // 
             // mOSTRARToolStripMenuItem2
             // 
             this.mOSTRARToolStripMenuItem2.Name = "mOSTRARToolStripMenuItem2";
-            this.mOSTRARToolStripMenuItem2.Size = new System.Drawing.Size(180, 22);
+            this.mOSTRARToolStripMenuItem2.Size = new System.Drawing.Size(128, 22);
             this.mOSTRARToolStripMenuItem2.Text = "MOSTRAR";
             this.mOSTRARToolStripMenuItem2.Click += new System.EventHandler(this.mOSTRARToolStripMenuItem2_Click);
             // 
@@ -344,7 +344,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 23);
             this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
+            this.button1.Text = "cargar";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -420,6 +420,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Gray;
             this.ClientSize = new System.Drawing.Size(800, 358);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
