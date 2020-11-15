@@ -308,7 +308,7 @@ namespace RECURSIVO
 
         private void mOSTRAREXAMENToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("HOLA MUNDO");
         }
     }
     class Arbol
