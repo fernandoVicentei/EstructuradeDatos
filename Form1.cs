@@ -310,6 +310,8 @@ namespace RECURSIVO
         {
             MessageBox.Show("HOLA MUNDO");
             MessageBox.Show("HOLA HOLW");
+
+            Int16 a = 34;
         }
     }
     class Arbol
