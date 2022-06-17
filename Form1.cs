@@ -24,6 +24,7 @@ namespace RECURSIVO
         Cola c = new Cola();
         private void button1_Click(object sender, EventArgs e)
         {
+		Console.WriteLine("canti GG");
 
         }
         int dim1;
